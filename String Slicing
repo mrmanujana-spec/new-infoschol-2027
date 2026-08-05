@@ -1,0 +1,25 @@
+# name = "manujana ranketh" #anything type in string have index ,two index type (positive and negative)
+# print(name)
+# #string slicing
+# print(name [0:4])
+# print(name[0:9])
+# print(name [0:10])
+# print(name [0:8:1])
+# print(name [0:16:1])
+# print(name [0:16:2])
+# print(name [0:16:3])
+# # print(name [0:16:1:2]) wrong slicing
+
+fruit = "Orange"
+# print(fruit)
+# print(fruit [0:3])
+# print(fruit[3:6])
+
+# print(fruit [:3])
+# print(fruit [3:])
+
+# print(fruit [-3:])
+# print(fruit [:-3])
+
+print(fruit [-3:-1])
+print(fruit [-6:-3])
